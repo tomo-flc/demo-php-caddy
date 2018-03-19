@@ -12,4 +12,4 @@ header / -Server
 
 log stdout
 errors stdout
-on startup php-fpm --nodeamonize
+on startup php-fpm --nodaemonize
